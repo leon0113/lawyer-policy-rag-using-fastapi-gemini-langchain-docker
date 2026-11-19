@@ -5,6 +5,7 @@ from config import ALLOWED_EXTENSIONS, MAX_FILE_SIZE_MB, UPLOAD_DIR
 from service.document_parser import extract_text
 from models import Contract
 from database import contracts_collection
+from bson import ObjectId
 
 router = APIRouter(
     prefix="/contracts",
@@ -61,3 +62,27 @@ async def upload_contract(
         "word_count": contract_data.word_count,
         "status": contract_data.status,
     }
+
+
+@router.get("/")
+async def list_contracts():
+    # list all uploaded contracts
+    contracts = []
+    for doc in contracts_collection.find({}, {"text_content": 0}):
+        contract = Contract(**doc)
+        contract.id = str(doc["_id"])
+        contracts.append(contract)
+
+    return contracts
+
+
+@router.get("/{contract_id}")
+async def get_contract(contract_id: str):
+    # get a specific contract by id
+    doc = contracts_collection.find_one({"_id": ObjectId(contract_id)})
+    if not doc:
+        raise HTTPException(status_code=404, detail="Contract not found")
+
+    contract = Contract(**doc)
+    contract.id = str(doc["_id"])
+    return contract
