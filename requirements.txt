@@ -40,6 +40,7 @@ pydantic-settings==2.16.3
 pydantic_core==2.50.4
 Pygments==2.21.0
 pymongo==4.20.0
+PyPDF2==3.0.1
 python-dotenv==1.2.4
 python-multipart==0.0.34
 PyYAML==6.0.3

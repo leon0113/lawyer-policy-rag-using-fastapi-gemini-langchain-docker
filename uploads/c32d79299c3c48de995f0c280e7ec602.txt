@@ -1,0 +1,60 @@
+SERVICE AGREEMENT
+
+This Service Agreement (the "Agreement") is entered into as of January 15, 2026 (the "Effective Date"), by and between:
+
+Brightwave Solutions LLC, a limited liability company organized under the laws of the State of Delaware, with its principal office at 245 Market Street, Wilmington, DE 19801 (the "Client"); and
+
+Nova Digital Studio Inc., a corporation organized under the laws of the State of California, with its principal office at 88 Harbor Avenue, San Diego, CA 92101 (the "Contractor").
+
+1. SERVICES
+The Contractor agrees to design, develop, and deliver a custom web-based customer portal (the "Services") for the Client, in accordance with the specifications set out in Exhibit A. The Contractor shall perform the Services in a professional and workmanlike manner.
+
+2. TERM
+This Agreement begins on the Effective Date and continues for a period of six (6) months, unless terminated earlier in accordance with Section 8. The Agreement may be extended only by written agreement signed by both parties.
+
+3. PAYMENT
+3.1 The Client shall pay the Contractor a total fee of $48,000, payable in four equal installments of $12,000 on the following dates: February 1, March 15, May 1, and June 30, 2026.
+3.2 Invoices are due within fifteen (15) days of receipt. Late payments shall accrue interest at a rate of 2% per month until paid in full.
+3.3 The Client is not entitled to withhold payment for any reason, including a dispute over the quality of the Services.
+
+4. INTELLECTUAL PROPERTY
+All work product created by the Contractor under this Agreement shall remain the exclusive property of the Contractor until full payment is received. Upon full payment, ownership transfers to the Client, except that the Contractor retains the right to reuse any code, tools, or methods developed during the project for any other client, without restriction.
+
+5. CONFIDENTIALITY
+Each party agrees to keep confidential all non-public information disclosed by the other party. This obligation continues indefinitely after the termination of this Agreement and has no exceptions.
+
+6. WARRANTY AND LIABILITY
+6.1 The Contractor provides the Services "as is" and makes no warranties of any kind, express or implied.
+6.2 The Contractor's total liability under this Agreement, for any cause whatsoever, shall not exceed $500.
+6.3 The Client shall indemnify and hold harmless the Contractor against all claims, damages, and expenses arising out of the Client's use of the Services.
+
+7. NON-COMPETE
+During the term of this Agreement and for a period of five (5) years afterward, the Client shall not engage any other software developer or design firm to build a product similar to the Services anywhere in the world.
+
+8. TERMINATION
+8.1 The Contractor may terminate this Agreement at any time, for any reason, with no notice.
+8.2 The Client may terminate this Agreement only for material breach by the Contractor, and only after giving thirty (30) days' written notice and an opportunity to cure.
+8.3 Upon termination, all fees paid to date are non-refundable.
+
+9. AUTOMATIC RENEWAL
+Unless the Client provides written notice at least ninety (90) days before the end of the term, this Agreement shall automatically renew for successive one-year terms at a fee increased by 10% per year.
+
+10. GOVERNING LAW AND DISPUTES
+This Agreement is governed by the laws of the State of California. Any dispute shall be resolved by binding arbitration in San Diego, California, and the Client waives any right to a jury trial or to participate in a class action.
+
+11. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties and supersedes all prior discussions and understandings. Any amendment must be in writing and signed by both parties.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+CLIENT: Brightwave Solutions LLC
+By: ______________________
+Name: Daniel Harper
+Title: Chief Executive Officer
+Date: ______________________
+
+CONTRACTOR: Nova Digital Studio Inc.
+By: ______________________
+Name: Priya Natarajan
+Title: President
+Date: ______________________
