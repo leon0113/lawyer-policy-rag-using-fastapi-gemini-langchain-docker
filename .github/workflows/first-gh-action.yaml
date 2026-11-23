@@ -7,7 +7,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: print working directory
-        run: |
-          node -v
-          git --version
+      - name: copying the codes
+        uses: actions/checkout@v7
+
+      - name: install nodejs
+        uses: actions/setup-node@v7
+        with:
+          node-version: 20.15.0
+
+      - name: check new node version
+        run: node -v
